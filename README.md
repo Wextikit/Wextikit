@@ -7,20 +7,17 @@
   width="180"
 />
 
-<h3>Mostly working with <b>C#</b> and <b>Lua</b>.</h3>
+<div>
+  <h3>Mostly working with <b>C#</b> and <b>Lua</b>.</h3>
 
-<h3>Contact</h3>
+  <h3>Contact</h3>
 
-<ul>
-  <li>
-    Discord:
-    <a href="https://discord.gg/bvwYBZZwUX">Elysium Discord Server</a>
-  </li>
-  <li>
-    Work mail:
-    <a href="mailto:ohayeshechki@icloud.com">ohayeshechki@icloud.com</a>
-  </li>
-</ul>
+  <p>
+    • Discord: <a href="https://discord.gg/bvwYBZZwUX">Elysium Discord Server</a>
+    <br>
+    • Work mail: <a href="mailto:ohayeshechki@icloud.com">ohayeshechki@icloud.com</a>
+  </p>
+</div>
 
 <br clear="left">
 
