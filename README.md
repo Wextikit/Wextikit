@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![Uploading 1.jpg…]()
-" alt="Wextikit" width="450">
+  <img src="./wextikit-transparent.png" alt="Wextikit" width="350">
 </p>
 
 ## Wextikit
