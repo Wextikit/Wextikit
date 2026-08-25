@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./<img width="500" height="500" alt="__Frieren_Silly__11________frieren__sousounofrieren__frierenbeyondjourneysend__葬送のフリーレン__anime-removebg-preview" src="https://github.com/user-attachments/assets/850910e1-026a-4e7b-a448-1ea5f4ffd65a" />
-" alt="Wextikit" width="350">
+  <img src="https://github.com/user-attachments/assets/850910e1-026a-4e7b-a448-1ea5f4ffd65a" alt="Wextikit" width="350">
 </p>
 
 ## Wextikit
