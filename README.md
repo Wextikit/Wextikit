@@ -1,17 +1,19 @@
+<h2>Wextikit</h2>
+
 <img
   align="left"
   src="https://github.com/user-attachments/assets/850910e1-026a-4e7b-a448-1ea5f4ffd65a"
   alt="Wextikit"
-  width="230"
+  width="180"
 />
 
-## Wextikit
+<p>Mostly working with <b>C#</b> and <b>Lua</b>.</p>
 
-Mostly working with **C#** and **Lua**.
+<h3>Contact</h3>
 
-### Contact
-
-- Discord: [Elysium Discord Server](https://discord.gg/C3X8pwAuU5)
-- Email: [ohayeshechki@icloud.com](mailto:ohayeshechki@icloud.com)
+<ul>
+  <li>Discord: <a href="https://discord.gg/C3X8pwAuU5">Elysium Discord Server</a></li>
+  <li>Email: <a href="mailto:ohayeshechki@icloud.com">ohayeshechki@icloud.com</a></li>
+</ul>
 
 <br clear="left">
