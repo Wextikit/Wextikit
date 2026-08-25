@@ -21,7 +21,7 @@
 
 <br clear="left">
 
-<h3>Technologies</h3>
+
 
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
