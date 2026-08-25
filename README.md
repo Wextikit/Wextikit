@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./Gemini_Generated_Image_u0iyjhu0iyjhu0iy.jpg" alt="Wextikit" width="450">
+  <img src="![Uploading 1.jpg…]()
+" alt="Wextikit" width="450">
 </p>
 
 ## Wextikit
