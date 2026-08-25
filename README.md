@@ -17,7 +17,7 @@
     <a href="https://discord.gg/bvwYBZZwUX">Elysium Discord Server</a>
   </li>
   <li>
-    iCloud:
+    Work mail:
     <a href="mailto:ohayeshechki@icloud.com">ohayeshechki@icloud.com</a>
   </li>
 </ul>
