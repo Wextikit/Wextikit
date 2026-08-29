@@ -15,7 +15,7 @@
   <p>
     • Discord: <a href="https://discord.gg/bvwYBZZwUX">Elysium Discord Server</a>
     <br>
-    • Work mail: <a href="mailto:ohayeshechki@icloud.com">ohayeshechki@icloud.com</a>
+    • Work mail: <a href="mailto:wextikit@proton.me">ohayeshechki@icloud.com</a>
   </p>
 </div>
 
